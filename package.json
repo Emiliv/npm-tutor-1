@@ -1,0 +1,22 @@
+{
+  "name": "first-tutorial",
+  "version": "1.0.0",
+  "description": "My first npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emiliv/npm-tutor-1.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Ivan Florin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emiliv/npm-tutor-1/issues"
+  },
+  "homepage": "https://github.com/Emiliv/npm-tutor-1#readme"
+}
